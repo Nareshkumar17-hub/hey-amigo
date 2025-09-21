@@ -1,0 +1,89 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins' , sans-serif;
+    overflow-x: hidden;
+   
+} 
+
+#hero {
+
+   
+    background-image: url(hero\ bg\ 4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding-top: 40px;
+    overflow: hidden;
+    
+}
+#info {
+    position: relative;
+    top: 20%;
+    left: 20px;
+}  
+#info h1 {
+    font-size: 4rem;
+}
+
+#info  p {
+    color: lightgray;
+
+}
+#about {
+    display: flex;
+    margin-top: 40px; 
+    justify-content: space-between;
+     flex-wrap: wrap;
+} 
+
+#about #about_info {
+      height: 400px;
+      width: 600px; 
+      line-height: 36px;
+      padding-top: 40px;
+} 
+
+#choose {
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   gap: 20px;
+   padding-top: 60px;
+   color: white;  
+
+   margin-bottom: 40px;
+
+}
+#head_container {
+    margin-top: 80px;
+    margin-bottom: 0;
+}
+#ourcafe {
+    margin-bottom: 40px;
+} 
+#testi h1 {
+    margin-bottom: 40px;
+    font-size: 3rem; 
+}  
+
+#testi {
+    margin-bottom: 80px;
+}
+
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgba(0,0,0,0.5); /* semi-transparent black background */
+  border-radius: 50%; /* optional: circle shape */
+} 
+
+footer {
+    padding-top: 80px;
+}  
+
+footer i {
+    margin-left: 40px;
+}

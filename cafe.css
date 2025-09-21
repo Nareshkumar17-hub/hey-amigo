@@ -3,7 +3,7 @@ body {
     margin: 0;
     box-sizing: border-box;
     font-family: 'poppins' , sans-serif;
-    overflow-x: hidden;
+    overflow-x: hidden !important;
      max-width:100%
 } 
 
@@ -83,4 +83,5 @@ body {
 footer {
     padding-top: 80px;
 }  
+
 

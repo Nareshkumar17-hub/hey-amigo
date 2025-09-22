@@ -5,7 +5,7 @@ body {
     font-family: 'poppins' , sans-serif;
     overflow-x: hidden !important;
      max-width:100% 
-    outline: 1px red solid
+    outline: 1px red solid;
 } 
 
 #hero {
@@ -84,6 +84,7 @@ body {
 footer {
     padding-top: 80px;
 }  
+
 
 
 

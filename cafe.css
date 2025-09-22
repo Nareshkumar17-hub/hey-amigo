@@ -7,6 +7,9 @@ body {
      max-width:100% 
     outline: 1px red solid;
 } 
+* {
+    border:1px black solid;
+}
 
 #hero {
 
@@ -84,6 +87,7 @@ body {
 footer {
     padding-top: 80px;
 }  
+
 
 
 
